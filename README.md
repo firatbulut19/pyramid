@@ -1,0 +1,2 @@
+# pyramid
+ pyramid sum algorithm
